@@ -1,0 +1,4 @@
+backend/backend
+proxy/proxy
+*.exe
+.vscode/
